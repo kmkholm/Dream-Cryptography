@@ -300,7 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Dr. Mohammed Tawfik**
 - **Email**: kmkhol01@gmail.com
 - **Research Interest**: Consciousness-based cryptography, Post-quantum security
-- **Institution**: [Your Institution]
+- **Institution**: sanan university
 
 ## 📚 Citation
 
@@ -310,7 +310,7 @@ If you use this system in academic research, please cite:
 @software{tawfik2024dreamcrypto,
   title={Secure Post-Quantum Dream Crypto System: Consciousness-Based Cryptography},
   author={Tawfik, Mohammed},
-  year={2024},
+  year={2025},
   url={https://github.com/yourusername/dream-crypto-system},
   version={2.0}
 }
