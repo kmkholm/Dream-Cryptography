@@ -118,7 +118,7 @@ pip install scikit-learn lightgbm joblib
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dream-crypto-system.git
+git clone https://github.com/kmkholm/Dream-Cryptography.git
 cd dream-crypto-system
 ```
 
